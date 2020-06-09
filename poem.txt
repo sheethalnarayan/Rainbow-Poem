@@ -3,4 +3,6 @@ The Rainbow Poem
 Violet
 Indigo
 Blue
+Green
+Yellow
 Red
