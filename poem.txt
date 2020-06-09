@@ -1,4 +1,4 @@
-The Rainbow Poem
+The Rainbow and the unicorn
 
 Violet
 Indigo
@@ -6,4 +6,7 @@ Blue
 Green
 Yellow
 Orange
+Unicorn
 Red
+These are the colors of the rainbow.
+And the unicorn.
